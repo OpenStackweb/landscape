@@ -1,0 +1,699 @@
+- category:
+    name: OpenInfra Members
+    subcategories:
+      - subcategory:
+          name: Platinum
+          items:
+            - item:
+                name: Ant Group
+                homepage_url: https://www.antgroup.com/en
+                logo: antgroup-lg.png
+                crunchbase: https://www.crunchbase.com/organization/ant-group
+                joined: '2020-11-01'
+            - item:
+                name: Cachengo
+                homepage_url: https://cachengo.com/
+                logo: cachengo-lg1.png
+                crunchbase: https://www.crunchbase.com/organization/cachengo
+                joined: '2021-06-15'
+            - item:
+                name: Ericsson
+                homepage_url: https://www.ericsson.com/
+                logo: ericsson-lg.png
+                crunchbase: https://www.crunchbase.com/organization/ericsson
+                joined: '2012-03-10'
+            - item:
+                name: Huawei
+                homepage_url: https://www.huawei.com/en
+                logo: huawei-new-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/huawei
+                joined: '2011-07-20'
+            - item:
+                name: OKESTRO
+                homepage_url: https://www.okestro.com/
+                logo: okestro-lg3.png
+                crunchbase: https://www.crunchbase.com/organization/okestro
+                joined: '2019-11-05'
+            - item:
+                name: Rackspace
+                homepage_url: https://www.rackspace.com/
+                logo: rackspace-lg2.png
+                crunchbase: https://www.crunchbase.com/organization/rackspace
+                joined: '2010-04-15'
+            - item:
+                name: Viettel
+                homepage_url: https://viettel.com.vn/vi/
+                logo: viettel-new-lg.png
+                crunchbase: https://www.crunchbase.com/organization/viettel
+                joined: '2018-09-30'
+            - item:
+                name: Wind River
+                homepage_url: https://www.windriver.com/
+                logo: windriver-lg.png
+                crunchbase: https://www.crunchbase.com/organization/wind-river
+                joined: '2013-05-22'
+      - subcategory:
+          name: Gold
+          items:
+            - item:
+                name: Bloomberg
+                homepage_url: https://www.bloomberg.com/company/values/tech-at-bloomberg/open-source/?utm_medium=cto&utm_content=site-partner&utm_source=site-partner&utm_campaign=MKTG_2022TechEvent_OpenInfra&tactic=622682
+                logo: bloomberg-lg1.png
+                crunchbase: https://www.crunchbase.com/organization/bloomberg
+                joined: '2014-08-12'
+            - item:
+                name: Canonical
+                homepage_url: https://canonical.com/
+                logo: Canonical-s.png
+                crunchbase: https://www.crunchbase.com/organization/ubuntu
+                joined: '2010-10-05'
+            - item:
+                name: China Mobile
+                homepage_url: http://www.chinamobileltd.com/en/global/home.php
+                logo: chinamobile-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/china-mobile
+                joined: '2015-02-18'
+            - item:
+                name: China Telecom
+                homepage_url: http://www.ctsi.com.cn/
+                logo: chinatelecom-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/china-telcom
+                joined: '2016-04-25'
+            - item:
+                name: China Unicom
+                homepage_url: http://www.chinaunicom.com.cn/
+                logo: China-Unicom.png
+                crunchbase: https://www.crunchbase.com/organization/china-unicom
+                joined: '2017-09-14'
+            - item:
+                name: Cleura
+                homepage_url: https://cleura.com/
+                logo: cleura-lg1.jpg
+                crunchbase: https://www.crunchbase.com/organization/cleura
+                joined: '2020-12-01'
+            - item:
+                name: Deutsche Telekom
+                homepage_url: https://open-telekom-cloud.com/en
+                logo: tsystems-lg1.png
+                crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+                joined: '2013-11-07'
+            - item:
+                name: Mirantis
+                homepage_url: http://www.mirantis.com/?utm_source=website&utm_medium=openstack-org
+                logo: mirantis-lg.png
+                crunchbase: https://www.crunchbase.com/organization/mirantis
+                joined: '2011-06-30'
+            - item:
+                name: Red Hat, Inc.
+                homepage_url: http://www.redhat.com/openstack/?sc_cid=70160000000bEKkAAM&offer_id=701600000006R7KAAU
+                logo: RedHat-lg.png
+                crunchbase: https://www.crunchbase.com/organization/red-hat
+                joined: '2010-09-15'
+            - item:
+                name: ZTE Corporation
+                homepage_url: https://www.zte.com.cn/global/
+                logo: zte-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/zte-corporation
+                joined: '2014-05-10'
+      - subcategory:
+          name: Silver
+          items:
+            - item:
+                name: Acme Gating
+                homepage_url: https://acmegating.com/
+                logo: acmegating-lg.png
+                joined: '2021-09-01'
+            - item:
+                name: AMD
+                homepage_url: https://www.amd.com/
+                logo: amd-lg.png
+                crunchbase: https://www.crunchbase.com/organization/amd
+                joined: '2012-08-20'
+            - item:
+                name: Arctera
+                homepage_url: https://arctera.com/
+                logo: arctera-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/arctera
+                joined: '2020-05-25'
+            - item:
+                name: AXLBIT
+                homepage_url: https://axlbit.com/
+                logo: axlbit-lg.png
+                crunchbase: https://www.crunchbase.com/organization/axlbit
+                joined: '2019-07-10'
+            - item:
+                name: B1 Systems
+                homepage_url: https://www.b1-systems.de/
+                logo: BSystems.jpg
+                crunchbase: https://www.crunchbase.com/organization/b1-systems-gmbh
+                joined: '2015-11-30'
+            - item:
+                name: Bai Xin Information Technology Co., Ltd.
+                homepage_url: https://www.baixin.com/
+                logo: baixin-lg2.png
+
+                joined: '2018-02-14'
+            - item:
+                name: CECloud
+                homepage_url: https://www.cecloud.com/
+                logo: CECloud-LG.png
+                crunchbase: https://www.crunchbase.com/organization/china-electronic-system-cloud-data-and-intelligence-technology
+                joined: '2021-09-05'
+            - item:
+                name: Cloud & Heat
+                homepage_url: https://www.cloudandheat.com/
+                logo: cloudandheat-lg.png
+                crunchbase: https://www.crunchbase.com/organization/aoterra
+                joined: '2016-06-18'
+            - item:
+                name: Cloudbase Solutions
+                homepage_url: https://cloudbase.it/
+                logo: cloudbase-lg2.jpg
+                crunchbase: https://www.crunchbase.com/organization/cloudbase-solutions
+                joined: '2013-04-22'
+            - item:
+                name: CloudFerro
+                homepage_url: https://cloudferro.com/
+                logo: cloudferro-lg1.png
+                crunchbase: https://www.crunchbase.com/organization/cloudferro
+                joined: '2017-12-11'
+            - item:
+                name: Cloudification
+                homepage_url: https://cloudification.io/
+                logo: cloudification-lg1.png
+                crunchbase: https://www.crunchbase.com/organization/cloudification
+                joined: '2020-08-19'
+            - item:
+                name: Coredge
+                homepage_url: https://coredge.io/
+                logo: coredge-lg.png
+                crunchbase: https://www.crunchbase.com/organization/coredge
+                joined: '2022-01-30'
+            - item:
+                name: Digital China Cloud Technology Information Technology Co., Ltd.
+                homepage_url: https://www.digitalchina.com/
+                logo: digitalchina2-lg.png
+                crunchbase: https://www.crunchbase.com/organization/digital-china-group
+                joined: '2019-04-15'
+            - item:
+                name: EasyStack
+                homepage_url: https://www.easystack.io/
+                logo: eastystack-lg1.png
+                crunchbase: https://www.crunchbase.com/organization/easystack
+                joined: '2014-09-20'
+            - item:
+                name: Elastx AB
+                homepage_url: https://elastx.se/
+                logo: Elastx-Logo-lg2.jpg
+                crunchbase: https://www.crunchbase.com/organization/elastx
+                joined: '2015-03-10'
+            - item:
+                name: Encora
+                homepage_url: https://www.encora.com/
+                logo: engora-lg.png
+                crunchbase: https://www.crunchbase.com/organization/indecomm-digital-services
+                joined: '2021-07-05'
+            - item:
+                name: Fairbanks
+                homepage_url: https://www.fairbanks.nl/
+                logo: fairbanks-lg1.png
+                crunchbase: https://www.crunchbase.com/organization/fairbanks-9748
+                joined: '2016-11-30'
+            - item:
+                name: FPT Smart Cloud
+                homepage_url: https://fptsmartcloud.com/
+                logo: fptsmartcloud-lg.png
+                crunchbase: https://www.crunchbase.com/organization/fpt-smart-cloud
+                joined: '2020-04-25'
+            - item:
+                name: Fujitsu
+                homepage_url: https://www.fujitsu.com/
+                logo: fujitsu-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/fujitsu
+                joined: '2010-12-15'
+            - item:
+                name: G-Research
+                homepage_url: https://www.gresearch.com/
+                logo: gresearch-lg.png
+                crunchbase: https://www.crunchbase.com/organization/g-research
+                joined: '2018-05-20'
+            - item:
+                name: GEICO
+                homepage_url: https://www.geico.com/
+                logo: geico-lg.png
+                crunchbase: https://www.crunchbase.com/organization/geico
+                joined: '2020-01-01'
+            - item:
+                name: Henan Kunlun Technologies Co., Ltd.
+                homepage_url: https://www.kunlun.com/
+                logo: kunlun-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: Hitachi
+                homepage_url: https://www.hitachi.com/
+                logo: hitachi-large.png
+                crunchbase: https://www.crunchbase.com/organization/hitachi
+                joined: '2020-01-01'
+            - item:
+                name: Huacun Zhigu Technology
+                homepage_url: https://www.huacun.com/
+                logo: huacun-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: Hydrolix
+                homepage_url: https://hydrolix.io/
+                logo: hydolix-lg.png
+                crunchbase: https://www.crunchbase.com/organization/hydrolix
+                joined: '2020-01-01'
+            - item:
+                name: IEI SYSTEM
+                homepage_url: http://en.inspur.com/
+                logo: ieitsystems-lg2.png
+                crunchbase: https://www.crunchbase.com/organization/inspur-cloud
+                joined: '2020-01-01'
+            - item:
+                name: Infomaniak
+                homepage_url: https://www.infomaniak.com/
+                logo: infomaniak-lg.png
+                crunchbase: https://www.crunchbase.com/organization/infomaniak
+                joined: '2020-01-01'
+            - item:
+                name: KT Cloud
+                homepage_url: https://ktcloud.co.kr/
+                logo: ktcloud-lg.png
+                crunchbase: https://www.crunchbase.com/organization/kt-cloud
+                joined: '2020-01-01'
+            - item:
+                name: MenzelIT
+                homepage_url: https://www.menzel-it.net/
+                logo: menzelit-lg.png
+                crunchbase: https://www.crunchbase.com/organization/menzel-it
+                joined: '2020-01-01'
+            - item:
+                name: NEC
+                homepage_url: https://www.nec.com/
+                logo: nec-headline-large.png
+                crunchbase: https://www.crunchbase.com/organization/nec
+                joined: '2012-09-20'
+            - item:
+                name: NETWAYS Managed Services GmbH
+                homepage_url: https://nws.netways.de/
+                logo: netways-lg.png
+                crunchbase: https://www.crunchbase.com/organization/netways
+                joined: '2020-01-01'
+            - item:
+                name: New H3C Technologies Co., Limited
+                homepage_url: https://www.h3c.com/
+                logo: h3c-sm1.jpg
+                crunchbase: https://www.crunchbase.com/organization/h3c-technologies
+                joined: '2020-01-01'
+            - item:
+                name: NHN
+                homepage_url: https://www.nhncloud.com/kr
+                logo: nhn-lg.png
+                crunchbase: https://www.crunchbase.com/organization/nhn-cloud
+                joined: '2020-01-01'
+            - item:
+                name: NTT Communications
+                homepage_url: https://www.ntt.com/
+                logo: ntt-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/ntt-communications
+                joined: '2012-11-05'
+            - item:
+                name: NTT TechnoCross
+                homepage_url: https://www.ntt-tx.co.jp/
+                logo: ntt-tx-lg.png
+                crunchbase: https://www.crunchbase.com/organization/ntt-technocross
+                joined: '2020-01-01'
+            - item:
+                name: OpenMetal
+                homepage_url: https://www.openmetal.io/
+                logo: openmetal-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/openmetal
+                joined: '2020-01-01'
+            - item:
+                name: OSISM
+                homepage_url: https://osism.tech/
+                logo: OSISM-LRG.png
+                crunchbase: https://www.crunchbase.com/organization/osism
+                joined: '2020-01-01'
+            - item:
+                name: OVHcloud
+                homepage_url: https://www.ovhcloud.com/
+                logo: OVH-new-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization//ovh-com
+                joined: '2013-07-18'
+            - item:
+                name: PlanetHoster
+                homepage_url: https://www.planethoster.com/
+                logo: planethoster-lg.png
+                crunchbase: https://www.crunchbase.com/organization/planethoster
+                joined: '2020-01-01'
+            - item:
+                name: Platform9 Systems, Inc
+                homepage_url: https://platform9.com/
+                logo: platform9-lg.png
+                crunchbase: https://www.crunchbase.com/organization/platform9-systems-inc
+                joined: '2015-06-25'
+            - item:
+                name: PowerLeader
+                homepage_url: https://www.powerleader.com.cn/
+                logo: powerleader-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/powerleader-science-technology-group-limited
+                joined: '2020-01-01'
+            - item:
+                name: Pure Storage
+                homepage_url: https://www.purestorage.com/
+                logo: purestorage-lg.png
+                crunchbase: https://www.crunchbase.com/organization/pure-storage
+                joined: '2020-01-01'
+            - item:
+                name: Rapifuzz
+                homepage_url: https://rapifuzz.in/
+                logo: rapifuzz-lg1.jpg
+                joined: '2020-01-01'
+            - item:
+                name: Safespring
+                homepage_url: https://safespring.com/
+                logo: safespring-lg.png
+                crunchbase: https://www.crunchbase.com/organization/safespring
+                joined: '2020-01-01'
+            - item:
+                name: Sardina Systems
+                homepage_url: https://sardinasystems.com/
+                logo: sardina-lg3.png
+                crunchbase: https://www.crunchbase.com/organization/sardina-systems
+                joined: '2020-01-01'
+            - item:
+                name: Schwarz IT
+                homepage_url: https://www.stackit.de/
+                logo: stackit-lg.png
+                crunchbase: https://www.crunchbase.com/organization/schwarz-it
+                joined: '2020-01-01'
+            - item:
+                name: Sharktech
+                homepage_url: https://www.sharktech.net/
+                logo: shartech-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/sharktech
+                joined: '2020-01-01'
+            - item:
+                name: Sichuan Hongxin Software Co., Ltd
+                homepage_url: https://www.changhong.com/
+                logo: Hongxin-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
+                homepage_url: https://www.huacun.com/
+                logo: haukun-lg.jpg
+                crunchbase: https://www.crunchbase.com/organization/sichuan-huakun-zhenyu-intelligent-technology
+                joined: '2020-01-01'
+            - item:
+                name: Societe Generale
+                homepage_url: https://www.societegenerale.com/
+                logo: societe-generale-sm.png
+                crunchbase: https://www.crunchbase.com/organization/societe-generale
+                joined: '2020-01-01'
+            - item:
+                name: SQUILD
+                homepage_url: https://squild.de/
+                logo: squild-lg2.png
+                crunchbase: https://www.crunchbase.com/organization/squild
+                joined: '2020-01-01'
+            - item:
+                name: StackHPC
+                homepage_url: https://www.stackhpc.com/
+                logo: StackHPC-lg1.png
+                crunchbase: https://www.crunchbase.com/organization/stackhpc
+                joined: '2020-01-01'
+            - item:
+                name: Storware
+                homepage_url: https://storware.eu/
+                logo: storware-lg.png
+                crunchbase: https://www.crunchbase.com/organization/storware
+                joined: '2020-01-01'
+            - item:
+                name: Taiji Computer Corporation Ltd.
+                homepage_url: https://www.taiji.com.cn/
+                logo: taiji-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: Taikun Cloud
+                homepage_url: https://taikun.cloud/
+                logo: taikuncloud-lg2.png
+                crunchbase: https://www.crunchbase.com/organization/itera-technologies-a-s
+                joined: '2020-01-01'
+            - item:
+                name: TransIP
+                homepage_url: https://www.transip.nl/
+                logo: SilverHorizontal-LG.png
+                crunchbase: https://www.crunchbase.com/organization/transip
+                joined: '2020-01-01'
+            - item:
+                name: Tsinghua Tongfang
+                homepage_url: https://www.thtf.com.cn/
+                logo: tsinghuatongfang-lg.png
+                crunchbase: https://www.crunchbase.com/organization/tsinghua-tongfang
+                joined: '2020-01-01'
+            - item:
+                name: Ultimum Technologies a.s.
+                homepage_url: http://ultimum.io/
+                logo: ULTIMUM-TECHNOLOGIES-320x132.png
+                crunchbase: https://www.crunchbase.com/organization/ultimum-technologies
+                joined: '2020-01-01'
+            - item:
+                name: VEXXHOST, Inc.
+                homepage_url: https://vexxhost.com/
+                logo: vexxhost-lg2.jpg
+                crunchbase: https://www.crunchbase.com/organization/vexxhost
+                joined: '2014-12-10'
+            - item:
+                name: VyOS
+                homepage_url: https://vyos.io/
+                logo: vyos-lg2.png
+                crunchbase: https://www.crunchbase.com/organization/vyos
+                joined: '2020-01-01'
+            - item:
+                name: Workday
+                homepage_url: https://www.workday.com/
+                logo: workday-lg.png
+                crunchbase: https://www.crunchbase.com/organization/workday
+                joined: '2020-01-01'
+            - item:
+                name: Worteks
+                homepage_url: https://worteks.com/
+                logo: worteks-lg.png
+                crunchbase: https://www.crunchbase.com/organization/worteks
+                joined: '2020-01-01'
+            - item:
+                name: Wuhan Yangtze Computing Technologies Company
+                homepage_url: https://yctco.com.cn/
+                logo: WuhanYangtze-lg.jpg
+                joined: '2020-01-01'
+            - item:
+                name: ZConverter
+                homepage_url: https://zconverter.com/
+                logo: zconverter-lg-new.png
+                crunchbase: https://www.crunchbase.com/organization/zconverter
+                joined: '2020-01-01'
+      - subcategory:
+          name: Associate
+          items:
+            - item:
+                name: ALASCA
+                homepage_url: https://alasca.cloud/en/
+                logo: alasca-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: AlmaLinux
+                homepage_url: https://almalinux.org/
+                logo: almalinux.png
+                joined: '2020-01-01'
+            - item:
+                name: Apereo Foundation
+                homepage_url: https://www.apereo.org/
+                logo: apereo-logo-2900-pxls-w1.jpg
+                joined: '2020-01-01'
+            - item:
+                name: Australian Research Data Commons
+                homepage_url: https://ardc.edu.au/
+                logo: ardc1.png
+                joined: '2022-02-16'
+            - item:
+                name: Boston University
+                homepage_url: https://www.bu.edu/
+                logo: bu.png
+                joined: '2020-01-01'
+            - item:
+                name: Ceph
+                homepage_url: https://ceph.io/en
+                logo: ceph1.png
+                joined: '2020-01-01'
+            - item:
+                name: CERN
+                homepage_url: https://home.cern/
+                logo: cern1.png
+                joined: '2012-05-10'
+            - item:
+                name: CSC
+                homepage_url: https://research.csc.fi/cloud-computing
+                logo: CSC-2012-LOGO.png
+                joined: '2020-01-01'
+            - item:
+                name: DMS Lab at Konkuk University
+                homepage_url: https://dmslab-konkuk.github.io/
+                logo: dmslab-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: DMTF
+                homepage_url: https://www.dmtf.org/
+                logo: DMTF-logo-color-jpeg1.jpg
+                joined: '2020-01-01'
+            - item:
+                name: Eclipse Foundation
+                homepage_url: https://www.eclipse.org/org/foundation/
+                logo: eclipse-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: ECMWF
+                homepage_url: https://www.ecmwf.int/
+                logo: ecmwf.png
+                joined: '2020-01-01'
+            - item:
+                name: eMerging Open Tech Foundation
+                logo: eOTF-lg1.png
+                joined: '2020-01-01'
+            - item:
+                name: Ersilia
+                homepage_url: https://ersilia.io/
+                logo: Ersilia-Brand1.png
+                joined: '2020-01-01'
+            - item:
+                name: IMT Atlantique
+                homepage_url: https://www.imt-atlantique.fr/en
+                logo: imt1.png
+                joined: '2020-01-01'
+            - item:
+                name: Indiana University
+                homepage_url: https://www.indiana.edu/
+                logo: IndianaUni1.jpg
+                joined: '2020-01-01'
+            - item:
+                name: inria
+                homepage_url: https://www.inria.fr/en
+                logo: inria1.png
+                joined: '2020-01-01'
+            - item:
+                name: Kings College London
+                homepage_url: https://www.kcl.ac.uk/
+                logo: kingscollege-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: Monash University
+                homepage_url: https://www.monash.edu/
+                logo: Monash-lg1.png
+                joined: '2020-01-01'
+            - item:
+                name: NDSU
+                homepage_url: https://www.ndsu.edu/cs/
+                logo: CompSci-2.clr.png
+                joined: '2020-01-01'
+            - item:
+                name: New York University
+                homepage_url: https://www.nyu.edu/
+                logo: nyu-lg.jpg
+                joined: '2020-01-01'
+            - item:
+                name: NICIS
+                homepage_url: https://www.nicis.ac.za/
+                logo: NICIS-logo-RGB1.png
+                joined: '2020-01-01'
+            - item:
+                name: Ontario Institute for Cancer Research
+                homepage_url: https://oicr.on.ca/
+                logo: oicr-logo-lg1.png
+                joined: '2020-01-01'
+            - item:
+                name: Open Compute Project
+                homepage_url: https://www.opencompute.org/
+                logo: OCP-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: Open Source Business Alliance
+                homepage_url: https://www.osb-alliance.de/
+                logo: osb.png
+                joined: '2020-01-01'
+            - item:
+                name: Open Source Initiative
+                homepage_url: https://opensource.org/
+                logo: lg2.jpg
+                joined: '2020-01-01'
+            - item:
+                name: openEuler
+                homepage_url: https://openeuler.org/
+                logo: horizontal-left.jpg
+                joined: '2020-01-01'
+            - item:
+                name: Oregon State University
+                homepage_url: https://oregonstate.edu/
+                logo: oregonstate.png
+                joined: '2020-01-01'
+            - item:
+                name: OW2
+                homepage_url: https://www.ow2.org/
+                logo: ow2-lg.jpg
+                joined: '2020-01-01'
+            - item:
+                name: Python Software Foundation
+                homepage_url: https://www.python.org/psf-landing/
+                logo: PSF-Logo-Small.png
+                joined: '2020-01-01'
+            - item:
+                name: Rust Foundation
+                homepage_url: https://foundation.rust-lang.org/
+                logo: rust.png
+                joined: '2020-01-01'
+            - item:
+                name: She Code Africa
+                homepage_url: https://shecodeafrica.org/
+                logo: sca-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: Soda Foundation
+                homepage_url: https://sodafoundation.io/
+                logo: soda-foundation-logo-lg.jpg
+                joined: '2020-01-01'
+            - item:
+                name: SPI
+                homepage_url: https://www.spi-inc.org/
+                logo: spi-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: Telecom Paris
+                homepage_url: https://www.telecom-paris.fr/
+                logo: telecomparis.png
+                joined: '2020-01-01'
+            - item:
+                name: Trifecta Tech Foundation
+                homepage_url: https://trifectatech.org/
+                logo: trifecta-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: UC Santa Cruz
+                homepage_url: https://www.ucsc.edu/
+                logo: uc-sant-cruz-lg.jpg
+                joined: '2020-01-01'
+            - item:
+                name: UMass Amherst
+                homepage_url: https://www.umass.edu/
+                logo: umass1.png
+                joined: '2020-01-01'
+            - item:
+                name: University of Delhi
+                homepage_url: https://www.du.ac.in/
+                logo: universityofdelhi-lg.png
+                joined: '2020-01-01'
+            - item:
+                name: Valencia College
+                homepage_url: https://valenciacollege.edu/future-students/bachelors.php?utm_source=partner&utm_medium=partner-link&utm_content=OpenInfra-Foundation&utm_campaign=Partner
+                logo: valenciacollege-lg.png
+                joined: '2020-01-01'
