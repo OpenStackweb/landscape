@@ -190,6 +190,12 @@
                 crunchbase: https://www.crunchbase.com/organization/coredge
                 joined: '2022-01-30'
             - item:
+                name: Dell Technologies
+                homepage_url: https://dell.com/
+                logo: dell-tech-LG.png
+                crunchbase: https://www.crunchbase.com/organization/dell-technologies
+                joined: '2025-12-15'
+            - item:
                 name: Digital China Cloud Technology Information Technology Co., Ltd.
                 homepage_url: https://www.digitalchina.com/
                 logo: digitalchina2-lg.png
