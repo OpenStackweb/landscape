@@ -214,12 +214,6 @@
                 crunchbase: https://www.crunchbase.com/organization/elastx
                 joined: '2015-03-10'
             - item:
-                name: Encora
-                homepage_url: https://www.encora.com/
-                logo: engora-lg.png
-                crunchbase: https://www.crunchbase.com/organization/indecomm-digital-services
-                joined: '2021-07-05'
-            - item:
                 name: Fairbanks
                 homepage_url: https://www.fairbanks.nl/
                 logo: fairbanks-lg1.png
@@ -295,12 +289,6 @@
                 logo: menzelit-lg.png
                 crunchbase: https://www.crunchbase.com/organization/menzel-it
                 joined: '2020-01-01'
-            - item:
-                name: NEC
-                homepage_url: https://www.nec.com/
-                logo: nec-headline-large.png
-                crunchbase: https://www.crunchbase.com/organization/nec
-                joined: '2012-09-20'
             - item:
                 name: NETWAYS Managed Services GmbH
                 homepage_url: https://nws.netways.de/
@@ -385,22 +373,10 @@
                 crunchbase: https://www.crunchbase.com/organization/safespring
                 joined: '2020-01-01'
             - item:
-                name: Sardina Systems
-                homepage_url: https://sardinasystems.com/
-                logo: sardina-lg3.png
-                crunchbase: https://www.crunchbase.com/organization/sardina-systems
-                joined: '2020-01-01'
-            - item:
                 name: Schwarz IT
                 homepage_url: https://www.stackit.de/
                 logo: stackit-lg.png
                 crunchbase: https://www.crunchbase.com/organization/schwarz-it
-                joined: '2020-01-01'
-            - item:
-                name: Sharktech
-                homepage_url: https://www.sharktech.net/
-                logo: shartech-lg.jpg
-                crunchbase: https://www.crunchbase.com/organization/sharktech
                 joined: '2020-01-01'
             - item:
                 name: Sichuan Hongxin Software Co., Ltd
@@ -436,11 +412,6 @@
                 homepage_url: https://storware.eu/
                 logo: storware-lg.png
                 crunchbase: https://www.crunchbase.com/organization/storware
-                joined: '2020-01-01'
-            - item:
-                name: Taiji Computer Corporation Ltd.
-                homepage_url: https://www.taiji.com.cn/
-                logo: taiji-lg.png
                 joined: '2020-01-01'
             - item:
                 name: Taikun Cloud
