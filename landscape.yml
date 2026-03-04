@@ -218,6 +218,11 @@ categories:
             logo: hydolix-lg.png
             crunchbase: https://www.crunchbase.com/organization/hydrolix
             joined: '2020-01-01'
+          - name: Hystax
+            homepage_url: https://hystax.com
+            logo: hystax.png
+            crunchbase: https://www.crunchbase.com/organization/hystax
+            joined: '2026-01-23'
           - name: IEI SYSTEM
             homepage_url: http://en.inspur.com/
             logo: ieitsystems-lg2.png
@@ -233,6 +238,11 @@ categories:
             logo: ktcloud-lg.png
             crunchbase: https://www.crunchbase.com/organization/kt-cloud
             joined: '2020-01-01'
+          - name: Leaseweb
+            homepage_url: https://www.leaseweb.com
+            logo: leaseweb.png
+            crunchbase: https://www.crunchbase.com/organization/leaseweb
+            joined: '2026-02-04'
           - name: MenzelIT
             homepage_url: https://www.menzel-it.net/
             logo: menzelit-lg.png
@@ -325,6 +335,11 @@ categories:
             logo: societe-generale-sm.png
             crunchbase: https://www.crunchbase.com/organization/societe-generale
             joined: '2020-01-01'
+          - name: Spitzkop
+            homepage_url: https://www.spitzkop.io
+            logo: spitzkop.png
+            crunchbase: https://www.crunchbase.com/organization/spitzkop
+            joined: '2026-02-04'
           - name: SQUILD
             homepage_url: https://squild.de/
             logo: squild-lg2.png
