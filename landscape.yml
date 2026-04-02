@@ -80,11 +80,6 @@ categories:
             logo: tsystems-lg1.png
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
             joined: '2013-11-07'
-          - name: Mirantis
-            homepage_url: http://www.mirantis.com/?utm_source=website&utm_medium=openstack-org
-            logo: mirantis-lg.png
-            crunchbase: https://www.crunchbase.com/organization/mirantis
-            joined: '2011-06-30'
           - name: Red Hat, Inc.
             homepage_url: http://www.redhat.com/openstack/?sc_cid=70160000000bEKkAAM&offer_id=701600000006R7KAAU
             logo: RedHat-lg.png
@@ -140,6 +135,11 @@ categories:
             logo: cloudbase-lg2.jpg
             crunchbase: https://www.crunchbase.com/organization/cloudbase-solutions
             joined: '2013-04-22'
+          - name: Cloudera
+            homepage_url: https://www.cloudera.com
+            logo: cloudera-lg.png
+            crunchbase: https://www.crunchbase.com/organization/cloudera
+            joined: '2026-01-01'
           - name: CloudFerro
             homepage_url: https://cloudferro.com/
             logo: cloudferro-lg1.png
@@ -213,11 +213,6 @@ categories:
             homepage_url: https://www.huacun.com/
             logo: huacun-lg.png
             joined: '2020-01-01'
-          - name: Hydrolix
-            homepage_url: https://hydrolix.io/
-            logo: hydolix-lg.png
-            crunchbase: https://www.crunchbase.com/organization/hydrolix
-            joined: '2020-01-01'
           - name: Hystax
             homepage_url: https://hystax.com
             logo: hystax.png
@@ -248,6 +243,11 @@ categories:
             logo: menzelit-lg.png
             crunchbase: https://www.crunchbase.com/organization/menzel-it
             joined: '2020-01-01'
+          - name: Mirantis
+            homepage_url: http://www.mirantis.com/?utm_source=website&utm_medium=openstack-org
+            logo: mirantis-lg.png
+            crunchbase: https://www.crunchbase.com/organization/mirantis
+            joined: '2011-06-30'
           - name: NETWAYS Managed Services GmbH
             homepage_url: https://nws.netways.de/
             logo: netways-lg.png
@@ -354,11 +354,6 @@ categories:
             homepage_url: https://storware.eu/
             logo: storware-lg.png
             crunchbase: https://www.crunchbase.com/organization/storware
-            joined: '2020-01-01'
-          - name: Taikun Cloud
-            homepage_url: https://taikun.cloud/
-            logo: taikuncloud-lg2.png
-            crunchbase: https://www.crunchbase.com/organization/itera-technologies-a-s
             joined: '2020-01-01'
           - name: TransIP
             homepage_url: https://www.transip.nl/
@@ -478,6 +473,10 @@ categories:
             homepage_url: https://www.kcl.ac.uk/
             logo: kingscollege-lg.png
             joined: '2020-01-01'
+          - name: Kyungpook National University
+            homepage_url: https://en.knu.ac.kr/main/main.htm
+            logo: knu-lg.png
+            joined: '2026-03-01'
           - name: Monash University
             homepage_url: https://www.monash.edu/
             logo: Monash-lg1.png
@@ -538,6 +537,10 @@ categories:
             homepage_url: https://sodafoundation.io/
             logo: soda-foundation-logo-lg.jpg
             joined: '2020-01-01'
+          - name: Southern Illinois University Carbondale
+            homepage_url: https://siu.edu/
+            logo: SIU-lg.jpg
+            joined: '2026-01-01'
           - name: SPI
             homepage_url: https://www.spi-inc.org/
             logo: spi-lg.png
